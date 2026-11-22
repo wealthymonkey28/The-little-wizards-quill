@@ -1,0 +1,1 @@
+{"name":"wizards-quill","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"npx vercel dev","check":"node --check public/app.js && node --check api/story.js"}}
